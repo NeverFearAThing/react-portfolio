@@ -26,14 +26,16 @@ const ProjectDetail = () => {
             </p>
           </div>
           <div className="row project-detail-info mt-3">
-            <div className="col-12 col-xl-8 col-xl-8 col-xl-8 col-sm-12 project-img">
-              <img
-                className="w-100"
-                src={projectData?.project_img}
-                alt=""
-                srcset=""
-              />
-            </div>
+            {projectData.project_img !== '' && (
+              <div className="col-12 col-xl-8 col-xl-8 col-xl-8 col-sm-12 project-img">
+                <img
+                  className="w-100"
+                  src={projectData?.project_img}
+                  alt=""
+                  srcset=""
+                />
+              </div>
+            )}
             <div className="col-12 col-xl-4 col-xl-4 col-xl-4 col-sm-12 project-detail-info-content">
               <p style={{ fontSize: '15px' }}>{projectData?.Collaborators}</p>
               <p className="pd-description" style={{ fontSize: '15px' }}>
@@ -43,12 +45,14 @@ const ProjectDetail = () => {
               </p>
               <p className="pd-skill">{projectData?.skill}</p>
             </div>
-            <div className="pd-video-link text-center my-5">
-              <iframe
-                className="h-100 pd-video"
-                src={projectData?.project_video_link}
-              ></iframe>
-            </div>
+            {projectData?.project_video_link !== '' && (
+              <div className="pd-video-link text-center my-5">
+                <iframe
+                  className="h-100 pd-video"
+                  src={projectData?.project_video_link}
+                ></iframe>
+              </div>
+            )}
             <div className="row long-desc-wrapper w-100 mt-4">
               <div className="col-xl-8">
                 <div className="pd-long-description-wrapper m-2">
