@@ -1,0 +1,161 @@
+.project-detail-page-content {
+    padding: 0px 80px;
+    width: 100vw;
+    // border: 1px solid green;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 100vh;
+}
+.project-img img {
+    min-height: 550px;
+    object-fit: cover;
+}
+.project-info p {
+    background-color: #195173;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px 0px;
+    border-radius: 5px;
+}
+.pd-description {
+    min-height: 250px;
+    font-size: 15px;
+}
+.pd-skill {
+    min-height: 150px;
+}
+
+.pd-video-link {
+    min-height: 400px;
+}
+.project-detail-page-title-content {
+    font-size: 20px;
+    margin: 0px;
+    padding: 15px 50px;
+    background-color: #ffd700;
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+}
+.project-detail-info-content {
+    font-size: 15px;
+    margin: 0px;
+    padding: 20px;
+    color: white;
+}
+.project-detail-info-content p,
+h5 {
+    border-radius: 10px;
+    background-color: #195173;
+    width: 100%;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+}
+.project-img img {
+    border-radius: 30px;
+}
+.pd-long-description-wrapper {
+    border-radius: 10px;
+    background-color: #195173;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    min-height: 200px;
+}
+.pd-pdf {
+    border-radius: 10px;
+    background-color: #195173;
+    padding: 20px;
+    color: white;
+    font-size: 25px;
+    min-height: 200px;
+}
+.pd-image-gallery {
+    margin-bottom: 100px;
+}
+.pd-pdf-text {
+    font-size: 20px;
+}
+.pd-image-gallery img {
+    border-radius: 10px;
+    object-fit: cover;
+}
+.pdf-btn {
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #ffd700;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.2s ease-in;
+}
+.pd-video {
+    width: 50%;
+}
+.pd-long-description {
+    font-size: 15px;
+}
+.backBtn {
+    margin-bottom: 100px;
+    text-align: center;
+}
+.backBtn button {
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    background-color: #ffd700;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all 0.2s ease-in;
+}
+@media (max-width: 550px) {
+    .project-img img {
+        min-height: 0px;
+        margin: 15px 0px;
+    }
+    .project-detail-page-content {
+        margin: 0px 20px;
+    }
+    .project-detail-page-content p,
+    h5 {
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+    .project-detail-info-content {
+        font-size: 15px;
+        padding: 0px;
+    }
+    .pdf-btn {
+        padding: 5px;
+        font-size: 15px;
+    }
+    .pd-video {
+        padding: 0px;
+        min-width: 100%;
+    }
+}
+
+@media (max-width: 400px) {
+    p,
+    h5 {
+        padding: 5px;
+        font-size: 15px;
+    }
+    .pd-video-link {
+        min-height: 200px;
+    }
+    .pd-long-description-wrapper {
+        padding: 5px;
+    }
+    .project-detail-page-title-content {
+        padding: 5px;
+    }
+}
+
+@media (max-width: 300px) {
+    .pdf-btn {
+        font-size: 9px;
+    }
+}

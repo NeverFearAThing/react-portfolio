@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "project_img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/12/React-Projects.png",
+    "project_name": "React JS",
+    "project_description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "skill": "Web Developer",
+    "project_video_link": "https://www.youtube.com/embed/O5hShUO6wxs",
+    "longer_project_desc": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg",
+      "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png",
+      "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"
+    ]
+  },
+  {
+    "id": 2,
+    "project_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630132824/HTML-Full-Form.jpg",
+    "project_name": "HTML Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Web Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "project_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
+    "project_name": "Css Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Web Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "project_img": "https://www.computerhope.com/jargon/j/javascript.png",
+    "project_name": "Javascript Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Javascript Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "project_img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
+    "project_name": "Python Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Python Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "project_img": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1127977/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
+    "project_name": "Node js Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Node Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "project_img": "https://dev.java/assets/images/java-logo-vert-blk.png",
+    "project_name": "Java Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "Java Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "project_img": "https://www.php.net/images/meta-image.png",
+    "project_name": "PHP Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": "PHP Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "project_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png",
+    "project_name": ".Net Projects",
+    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+    "skill": ".Net Developer",
+    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
+    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
+    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
+    "Collaborators": "Possible Collaboraters",
+    "project_gallery": [
+      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+    ]
+  }
+]

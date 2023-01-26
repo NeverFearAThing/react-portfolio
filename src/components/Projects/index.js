@@ -1,74 +1,92 @@
 import { useEffect, useState } from 'react'
-import {
-  faFontAwesome,
-  faReact,
-} from '@fortawesome/free-brands-svg-icons'
+import { faFontAwesome, faReact } from '@fortawesome/free-brands-svg-icons'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.scss'
-import { faChartColumn, faTriangleCircleSquare, faUserCheck } from '@fortawesome/free-solid-svg-icons'
+import {
+  faChartColumn,
+  faTriangleCircleSquare,
+  faUserCheck,
+} from '@fortawesome/free-solid-svg-icons'
+import data from '../../Data/projects.json'
+import Pagination from './Components/Pagination'
+import Projects from './Components/Projects'
+const Project = () => {
+  const [letterClass, setLetterClass] = useState('text-animate')
+  const [projectstates, setProjectStates] = useState({
+    projects: [],
+    loading: false,
+    currentPage: 1,
+    postsPerPage: 8,
+  })
+  const { currentPage, postsPerPage, projects, loading } = projectstates
+  const indexOfLastPost = currentPage * postsPerPage
+  const indexOfFirstPost = indexOfLastPost - postsPerPage
+  const currentProjects = projects.slice(indexOfFirstPost, indexOfLastPost)
+  const paginate = (pageNum) =>
+    setProjectStates({ ...projectstates, currentPage: pageNum })
 
-const About = () => {
-    const [letterClass, setLetterClass] = useState('text-animate')
+  const nextPage = () =>
+    setProjectStates({ ...projectstates, currentPage: currentPage + 1 })
 
-    useEffect(() => {
-      setTimeout(() => {
+  const prevPage = () =>
+    setProjectStates({ ...projectstates, currentPage: currentPage - 1 })
+  useEffect(() => {
+    setTimeout(() => {
       return setLetterClass('text-animate-hover')
-      }, 4000)
+    }, 4000)
+  }, [])
+  useEffect(() => {
+    setProjectStates({ ...projectstates, projects: data })
   }, [])
 
-
-    return (
-      <>
-        <div className="container about-page">
-          <div className="text-zone">
-            <h1>
+  return (
+    <>
+      <div className="container project-page">
+        <div className="project-page-content">
+          <div className="project-page-title text-center">
+            <p className="project-page-title-content">
               <AnimatedLetters
                 letterClass={letterClass}
-                strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']}
+                strArray={[
+                  'A',
+                  'l',
+                  'l',
+                  ' ',
+                  'P',
+                  'r',
+                  'o',
+                  'j',
+                  'e',
+                  'c',
+                  't',
+                ]}
                 idx={15}
               />
-            </h1>
-            <p>
-              I'm a young designer, with an exciting outlook on the future. Technology is evolving at a incredible speed, and we can only fully benefit from this if we properly apply it.
-            </p>
-            <p align="LEFT">
-              I'm a studious, hard working, motivated designer who excells in teams with different backgrounds and thus different state of minds. 
-            </p>
-            <p>
-              If asked to explain who I am in one sentence I would say that I am adventurous, a good listener, sports enthousiast, and last but not least a tech-fanatic!
-             
+              {/* All Projects */}
             </p>
           </div>
-          <div className="stage-cube-cont">
-          <div className="cubespinner">
-            <div className="face1">
-            <FontAwesomeIcon icon={faUserCheck} color="#DD0031" />
-            </div>
-            <div className="face2">
-              <FontAwesomeIcon icon={faChartColumn} color="#F06529" />
-            </div>
-            <div className="face3">
-              <FontAwesomeIcon icon={faTriangleCircleSquare} color="#28A4D9" />
-            </div>
-            <div className="face4">
-              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
-            </div>
-            <div className="face5">
-              <FontAwesomeIcon icon={faFontAwesome} color="#EFD81D" />
-            </div>
-            <div className="face6">
-              <FontAwesomeIcon icon={faReact} color="#EC4D28" />
-            </div>
+          <div className="project-info text-center">
+            <p className="project-info-content">
+              Click Project Picture to learn more about the project
+            </p>
+          </div>
+          <div className="projects-wrapper mt-5">
+            <Projects projectData={currentProjects} />
+          </div>
+          <div>
+            <Pagination
+              postsPerPage={postsPerPage}
+              totalPosts={projects.length}
+              paginate={paginate}
+              nextPage={nextPage}
+              prevPage={prevPage}
+            />
           </div>
         </div>
-      
+      </div>
+    </>
+  )
+}
 
-
-        </div>
-
-      </>
-    )
-  }
-  
-  export default About
+export default Project
