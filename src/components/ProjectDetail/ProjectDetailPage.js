@@ -43,7 +43,12 @@ const ProjectDetail = () => {
                   ? `${projectData?.project_description?.substring(0, 600)} ...`
                   : projectData?.project_description}
               </p>
-              <p className="pd-skill">{projectData?.skill}</p>
+              <p className="pd-skill text-center">
+                <p>Skills Learned</p>
+                {projectData?.skills?.map((skill) => (
+                  <span class="badge">{skill}</span>
+                ))}
+              </p>
             </div>
             {projectData?.project_video_link !== '' && (
               <div className="pd-video-link text-center my-5">
