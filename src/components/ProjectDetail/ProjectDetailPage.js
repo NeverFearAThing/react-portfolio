@@ -11,7 +11,7 @@ const ProjectDetail = () => {
   useEffect(() => {
     const data = Project.filter((item) => item.id === Number(id))
     setProjectData(data[0])
-  }, [])
+  }, [id])
 
   //   if (projectData?.length === 0) {
   //     return <h2>Loading....</h2>
@@ -38,11 +38,19 @@ const ProjectDetail = () => {
             )}
             <div className="col-12 col-xl-4 col-xl-4 col-xl-4 col-sm-12 project-detail-info-content">
               <p style={{ fontSize: '15px' }}>{projectData?.Collaborators}</p>
-              <p className="pd-description" style={{ fontSize: '15px' }}>
-                {projectData?.project_description?.length > 600
-                  ? `${projectData?.project_description?.substring(0, 600)} ...`
-                  : projectData?.project_description}
-              </p>
+              <p
+                className="pd-description"
+                style={{ fontSize: '15px' }}
+                dangerouslySetInnerHTML={{
+                  __html:
+                    projectData?.project_description?.length > 600
+                      ? `${projectData?.project_description?.substring(
+                          0,
+                          600
+                        )} ...`
+                      : projectData?.project_description,
+                }}
+              ></p>
               <p className="pd-skill text-center">
                 <p>Skills Learned</p>
                 {projectData?.skills?.map((skill) => (
@@ -61,9 +69,12 @@ const ProjectDetail = () => {
             <div className="row long-desc-wrapper w-100 mt-4">
               <div className="col-xl-8">
                 <div className="pd-long-description-wrapper m-2">
-                  <p className="pd-long-description ">
-                    {projectData?.longer_project_desc}
-                  </p>
+                  <p
+                    dangerouslySetInnerHTML={{
+                      __html: projectData?.longer_project_desc,
+                    }}
+                    className="pd-long-description"
+                  ></p>
                 </div>
               </div>
               <div className="col-xl-4">
