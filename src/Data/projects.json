@@ -1,154 +1,235 @@
 [
   {
     "id": 1,
-    "project_img": "https://www.interviewbit.com/blog/wp-content/uploads/2021/12/React-Projects.png",
-    "project_name": "React JS",
-    "project_description": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-    "skills": ["Web Developer", "Graphic Designer", "Photoshop Editor"],
-    "project_video_link": "https://www.youtube.com/embed/O5hShUO6wxs",
-    "longer_project_desc": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4meRjUU1e6JU4oNJNGeLTb5drmXuMpDTm6BviIOOLgiRUrsBlFC4nFFBKfAkycfPSQcFhtQiTV80xUweXIMQbCngfDHguyHOmJ-cc5YpJCMmCDmbbePQegpYercmKzKITygqQTLei-lih5XiIHKm5_sE62FUg45_MvsQrT8iIkeewPtBihJIQQlPMan7e8Z3Ee?width=4032&height=2268&cropmode=none",
+    "project_name": "FMP: HarmonizingFlow",
+    "project_description": "HarmonizingFlow is a master graduation project, that investigates the role of behavior and attention techniques in relation with work-life balance design. Through a structured design process, literature, and expert focus group a research prototype is developed. Using different techniques, including 3D printing, laser cutting, Arduino programming, and hardware evaluation, HarmonizingFlow is developed. During a three-day preliminary study, the prototype is evaluated and future recommendations are made.",
+    "skills": ["Advanced prototyping", "Applying creative research tools", "Longitudinal design/research", "Website design"],
+    "skill": "Developed skills: Advanced prototyping, applying creative research methods, longitudinal design/research, website design.",
+    "project_video_link": "https://www.youtube.com/embed/a5zRelFHLec",
+    "longer_project_desc": "This project follows the structure deployed within the design process. A combination of research through design, user-centered design, and the double diamond technique provided the basis for this design exploration. This project will first describe the origin, previous work, and state of the art on (design) research in the domain of work-life balance. This knowledge is collected by both facilitating expert collaboration and discussion during a focus group session, combined with analyzing validated studies and published literature about the subject. After a clear problem is defined, and existing knowledge is gathered, the project will elaborate on the ideation phase. This step will serve as a further deepening of the understanding of the problem(s), as well as an initial design direction. </br>The ideation phase of this design semester will be directed by validated behavior (change) techniques and human attention frameworks. During this phase, further exploration of the target group and relevant stakeholders will be described through the use of the value flow methodology. The section of the project will conclude by describing the relevant prototyping techniques, facilitating the research artifact. During the final stage of the design process, and thus this project, a final evaluation will be described and performed. Preliminary results, based on direct user feedback gathered through the use of validated research methodology will be presented, followed by a recommendation for further development in the growing domain of work-life balance research and design. ",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217431&authkey=AGh6DWeBZ2bLB1E&em=2",
+    "Collaborators": "Individual project",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg",
-      "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png",
-      "https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png"
+      "https://am3pap006files.storage.live.com/y4mt8IB09v1ZNzjg7i-UgOchljZeUrdJNbkqhO-CC4pHbkT4P9DnEhqS36KFOvViHQv45FseZRE50jPvAgwHQqSS558ZuBLJaD7PNa6ayIw4hdpty8QxYbl6EVatGTC672vJsbvU8ChhAlOf9r4Ruyo3Qi6FLJzLpWlu1GU6rBjaM9TLMkoepEtTLEGLg0W_PR9?width=2363&height=4134&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mFZ0A9KnE-Qc6Fdej2A6fDVStMtvPpuGTfmtshNXW_4RlUkryUFCrikLgjDHotqM6rsNhCEJ43Nmdw0eKFJ5VbzBD0ilBba8oWjBsMsqmLmJ28xqAJ4ARwhDkh8yqiMvS_fNnX_CYSu_T0-3AZHWW6iay4aHnGPn8mnSfkXU5aPSXyMXzRaGTpeaaT-Y52E0t?width=696&height=842&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mHjdM2QHJB9J2OoG5gY4Mw2RzXoWM8KCy-IVs26TcsvJd3NQg-3XSSqZV9uJ5C7JiE_NeXU2-7OQgsds7PhPaO-9LxkzXeOnb-y2LCB4a_rM47IYd3zAfkMzx2wpZfE-Vv5hA3gnEoXwbf0PhGN57Zjg2gKA16AK-sEBVBSW3e3PVunfE5VoxF68D9xtqPY7j?width=2268&height=4032&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mTdu6iibtjNAQjks0AntgS2GsNC9orNLiKu-_cABc5Y898OomPnBESvftAur_jR0iKRrjWVCG9l1PudHTl8omzRyD7KfZyiz7k3ij4jlbu66mNF8kpacbE3GOS1_px6EDR8sFQzbrbOjCqwahzP2-01NWsH_GjLUh5tlQ-GjVOazwELaQSL_XjsRVc5DR9gsD?width=3891&height=4919&cropmode=none"
     ]
   },
   {
     "id": 2,
-    "project_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630132824/HTML-Full-Form.jpg",
-    "project_name": "HTML Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["Web Developer", "Graphic Designer", "Photoshop Editor"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4m9eie2EOtmPtwIwM0FUuVs966YZfQHYyrwOBXwewKl43muFbOQk5WIO5HfHIpbk85wdBKtjaLypeJBAVIMBEjN--BXda6E7LNoC_6GJgpuLwJXHAQltonVVynwKygyowhgYQ0HcFu9UHPzCRS0Q291pk3P-wB2gh8YKKgldykxfzoJn0p5JlHb1nHPY4gLZYq?width=4032&height=2268&cropmode=none",
+    "project_name": "Celeste project Phase 2",
+    "project_description": "Intelligent Speed Assistance (ISA) systems, which will become mandatory for all vehicles     commercialised in the EU from 2022, enable speed alerts and, in some cases, automatic speed reduction and compliance. However, there are some issues that need resolving to support their correct use. Within this project, I learned to work together with over 15 partners, ranging from municipalities, technology companies, car manufacturers, and European acceleration program ambassadors. My role within the project was to evaluate the introduction of a smart intelligent speed limitation system installed in a car during a 3-month longitudinal study.  ",
+    "skills": ["International & multidisciplinary collaboration", "Longitudinal research", "Collaborating in a advanced research team", "Developing cutting-edge technology", "International focus group research"],
+    "skill": "Developed skills: International & multidisciplinary collaboration, longitudinal research, developing cutting-edge technology, collaborating in a advanced research team.",
+    "project_video_link": "https://www.youtube.com/embed/s1FDPjQZmyg",
+    "longer_project_desc": "CELESTE aims to analyze the current synergies between dynamic speed limits and ISAs and define traffic management solutions. What this effectively means is that city and road planners currently have only one fixed speed available to assign to a certain road. Celeste is a project that changes this. Whenever a road section is considered dangerous due to for example a large number of pedestrians, an active event, bad weather, road works, emergency vehicles, or other road safety influences, a road safety officer is able to reduce the speed on that road section. Alternatively, when the road conditions improve, the speed limit can be increased again. This system will bring increased safety, reduced emissions, higher acceptance, and more to the road users utilizing celeste-fitted roads. At the end of the two-year research project, Celeste concluded with a working back and front-end system, which was tested in three major cities in Europe. The continuation of the project including the commercialization will be continued by a start-up entity.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217436&authkey=AAtgxhYEESUtRJA&em=2",
+    "Collaborators": "Project funded by EIT smart mobility, in collaboration with over 15 partners.",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+      "https://am3pap006files.storage.live.com/y4mR47RicEI1dtH1WiCLhdxf4dyOlXigMZC5MUazIt5gmQfLja0SLe8CElI3NXQ98bJDBGdT76DbAeX_K4kmmx0B6FNjQwdjwjpCMsmt2AAMkHz5TOPHgZxsfpcvtfhp7Z1th9iddEm0ghIKGz5GKfp1EE9G5003MvWuO2VI2RIp66YNydCCnc96a3jvchmjQjU?width=583&height=240&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mLb98ZY_LOcuzSL5Lchm4NR3f3tMQBumtNLUk3zw5w0d4pQacAYIsRoRVmOCy3zDtYa8nTZFGu6PJxFzFgb6PIftKXuGHmrniYiheBPIz6B0cmgUYys-GZKSE4evj6Dt61v4DLy97e7Rocg8Vve0nGP36odwat-jnQi8iaa9HdRl98CvvbwWATTkxP84WXcbN?width=288&height=240&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mn7mRB8_vPWdokEFUV-lQoG8n3ESkmQ8A-fkJOeTTlK958eke2nznlAJ5a_D9soKo9c3mZ19gx3tFsNzhwLCaSiQVxOqDFxk5UjyvMOsztI99JQHev1oA-cq7ffPTwbfFJM3Zh7Jmd3K2Wat3EFHBmvCkwsDRUT9eeSQ4xNAqeUGSDz-rfXF6bOZSk7B3wGjy?width=1280&height=720&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4m_uTH5qjJVEfT4pRE6kMvrE1I4FtMx2aj6Vx6ufZRGxuZ40waqceG5KM0TyUZdC4WqMLHy3YJgkPlEfwky991IuDIHo9PkYbQGCquNF8XvEWqarMHhrHnT4R-RKFC9EQBZzTJyEP8m4t-7j5nEISjjI7sTYgOCRkRH1ReC2LDGtcK-A0SfJS2gUGp9tP2pXP0?width=2126&height=1537&cropmode=none"
     ]
   },
   {
     "id": 3,
-    "project_img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210203171024/CSSTutorial.png",
-    "project_name": "Css Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["Web Developer", "Graphic Designer", "Photoshop Editor"],
-    "project_video_link": "",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4md8bb5XcSzviwoSIvVzAMrRR54R5euCESnY4v1MWN8w56NCgMzrhFz1B3ji0L2L5uvKVt82kS07f6RIUTWOP_zE16WI3_03yM_5R16GDzbBILCg5KGwKXiXDE0Hhskzq8bzgznxDxF2qVjDKvUmnUoUMDrYUDCMIP2kAJ6VhSM7nFG-wuEZgIdGJwON5JDRyh?width=1917&height=957&cropmode=none",
+    "project_name": "M2.1: WalkBuddy",
+    "project_description": "WalkBuddy is the first 2nd-year master project, which builds on my bachelor-end project (also visible within the project page). Using the findings of a validated Rasch model research looking into the impact of outside variables on a person's mental strain to receive enough physical, a decision process is created. Using expert interviews in combination with validated research methods, WalkBuddy is created. A design that assists you in achieving your healthy activity goals, by transforming a goal, into an achievable habit. ",
+    "skill": "",
+    "skills": ["From research to design", "Solidworks", "Laser cutting", "Mechanical system design", "Stakeholder analysis", "Matlab"],
+    "project_video_link": "https://www.youtube.com/embed/VfQ2_YOMrMc",
+    "longer_project_desc": "WalkBuddy is a project that builds on the conclusions of a study using the Rasch model. The main conclusions within this study included that for improved health, regular activity is more important than reaching a specific high-level goal. Within the study, several obstacles influencing the threshold to go for a walk were identified. These were used as a basis in developing this prototype, combined with knowledge from expert interviews, and factors of different behaviour change techniques including Cialdini commitment and consistency, Goal setting theory and commitment from the Elaboration likelihood model. It helps users who are motivated but lack a little guidance and commitment to stick with their goal, by allowing them to set realistic goals, be aware of proven and personalized obstacles and providing an abstract insight into their progress. Furthermore, it shows potential improvements within suggestions when combined with artificial intelligence (AI).",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217448&authkey=AMgqBh0uzU8LF4M&em=2",
+    "Collaborators": "Individual project",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+      "https://am3pap006files.storage.live.com/y4mq-Q476Aq_2NbB0dSS6jDPkjCTZtvJ4ybMxaSKZTyiZpRcui6P4dW_w2NUprznHTOS0weXs4i5h_P7V38_qk9mIXLOdYWEJK0AA91V2zgmCckPtVxlAFsUhH_GQ-bDtrN5Rku0n9GE1JUuZpu5QuVjJ0pJcSFkKvBhnArAQu4N2TUhmLBGZNOwN0P1vynenzw?width=2267&height=2345&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mnef5yyp_QVBuP4xtJt3K2I6vD5hidSURfE8BLywqpVm0Wfcb7zlrNPd_GRkbj5eQ_J5xLO7iC7oEVs2guJXXjEOV7y3t4DLCm-TcTMu69Z-uAVvDhFsu0xCdTL98mYQVSRDl_ME8gSx_cRmPrHzQ2CyKy8Dhij_k9hGsVnYBr7XIZ2UTIs158pMEq-nNq8up?width=821&height=1161&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mLceq0g_D8yS0bDUJsYYxQzbHpbhpgLtuVQrO3LQvJw80SF--co2Lww9L1RtwoW8o0QcCvs5wgGW0h4JDAu5DkUPge6X-xr3TtwKwFaAZef2cT95PNvkCX-YIDgUWU0r5YO8cV2aIcMR2Nt3ROV8yylNRCYNw8vtPfgupOXhf9wq_L7N201M6F2KvT5b4BqbZ?width=2268&height=4032&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mNZOT1DrvcbXklEKH-DCof_jqLWSt1Wj0dccJn4ayToXv451_2B4OQ5CgzlAdZWg5Y64Y7wN4rkG1PvdKngGxD1usVoTzPOOrkuKmG7POSLO74-6B8Wo75FzvjA93LC29NStHsVX9RGM9mRYQyM1TbB3YUMq0ODCJnBPmXEozRm1Z9HCdqOL_Jna24wmX-FQB?width=1508&height=1880&cropmode=none"
     ]
   },
   {
     "id": 4,
-    "project_img": "https://www.computerhope.com/jargon/j/javascript.png",
-    "project_name": "Javascript Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": [
-      "Javascript Developer",
-      "Node js Developer",
-      "Figma to HTML",
-      "Data Science",
-      "Graphic Designer"
-    ],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4mA6RE-wDP0vuaLi5b9XEUzzJ1OkyvlkdZd4Tqx9N1Ny01TbHI_jPFzsak2bCoqWQyfTOWENuZQUeSE_0DPEw3V5EIf8Y2vxPX2bsJ2h1TGSDFKEVhelKFeUD8a29KiaYBxkH4Bz1oRoiQbseCofEQCEe5baiwmV1LF1Xx_IFbyra2h9UtIGkN05lPEeBWJxq2?width=5319&height=3598&cropmode=none",
+    "project_name": "Tutor: Creative Electronics",
+    "project_description": "During 2022, I had the opportunity to take on a practical assignment assistant role in the course Creative Electronics at the University of Technology Eindhoven. During this course, I was assigned to guide students during practicals, grade their assignments, and organize and conduct oral examinations. </br> This course introduces the basics of electrical engineering, electronics, sensors and actuators. Besides that, it enabled students to develop practical designing, building, and testing design prototypes skills, with a focus on integrated electronics, sensors and actuators.",
+    "skill": "",
+    "skills":["Teaching", "Problem solving", "providing valuable feedback", "Justifying grading", "Student guidance"] ,
+    "project_video_link": "",
+    "longer_project_desc": "The course followed a structured approach. Students were asked to work on several practical assignments and a self-defined final project. Each week consisted of informative lectures, a quiz to test their theoretical knowledge, a practicum in which their theory was shown in practice, and a final report where all their work was combined. </br> During the practicum I was one of the safety officers and tutors, who were available for questions, circuit checks, and possible troubleshooting. Furthermore, my role was to organize and distribute missing or faulty components. Additionally, I organized and graded sessions which included reports & oral exams. I really appreciated getting this opportunity to share my knowledge with fellow upcoming designers.",
+    "project_report_pdf_link": "",
+    "Collaborators": "Collobaration with: 3 professors & 8 tutors",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+      "https://am3pap006files.storage.live.com/y4mij53dAkxOxhWfmbx9W7X5HpqUG-KQ_Il8UEfT6RERjhAFvdpGzvPWvIB3LoA0KdPgWcatQSbbJzinA78xH95jeD-fT8nD4ENoizVJdQIG1zzymlOFNyz5N658lZYtinGMQ_iDNduB9M1NXNyBSu2l12nsWc4qHhYhCBfWoAP9uLkRT_xrQvC2nI5e3jE4j2r?width=1600&height=777&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mIp_6bwnkYsngaZM7VF_wr5XaMjxxZG8OMU8rY7g9AATsUzzf88UZM1YfFgkKzTyR0nrZELCb8nZwKhuuPpUWspGcJK6N_wx3tQ7dyo0nm-Qfta3EXMCLKMtsK2qvEFf_jBpZckElK627J50ta1NB1aVJT867YQ5umg06pw_nsflJO-X3VsoSu85JqNwTC-81?width=1600&height=777&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mPKcCnv5vR09ybIjD8sSYq6kXutSesiLkIA2YV9w7AVwjWeKQVG2J9dh52d-deXTXxp6UxrHiHxxIXewa1p3LrnLt1qhRVBNxX8D6a__BmY-Cu_Kgv9xLFl2rfcy71ZRvHJAHYVfkKTATkQsuWY0ZgBO5AD8Swwsr48xFb1ZeRg2F4uEyCttu1514VXDMJHb3?width=418&height=255&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mSuCHT8ZwJvmOY-hddgE0gP6nmQ8CsnDksf3zgSa6SujRniD9kRinvLJWtURMQFnjV1A_Kp6mlaY3p1voMTaUwU9gjz26ewULjSy3OTvKQwcVPBh5oo-878Zd3xV7IbEqX9i8vtfDoih1iSVCe_MqQwj44yx8hrK7q9O7krAEB9Jsw_ShGm9LwyGn2fZv3fol?width=1244&height=605&cropmode=none"
     ]
   },
   {
     "id": 5,
-    "project_img": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/12/Python-Programming.png",
-    "project_name": "Python Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["Python Developer", "Django Developer", "Data Science"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4m3IegElzD0M5zm8GEjN4ZRLrkTF5s5xbJbhEc9Q-R3BX1gwX_CQL4KcApq5MSwXBfxFIEjkUgk6F9tDcNEpwCmuQz_-ZGtbxg7VxXAekuAOuLRkhk1JJ5hgqxxDuHKPR66RK1exLLjc26xBRtke8ClZj5ZJAEER2F3zTZQG1O6ss92lQiWOFu0N_ZyAy2XvQ0?width=4032&height=2268&cropmode=none",
+    "project_name": "UED: A need to belong",
+    "project_description": "User experience design is an elective offered by the Human-Technology Interaction (MSC) department of the TU/e. During this project, I was able to work together in an interdisciplinary team, to learn how to utilize each team member with a unique background in a design loop.  I am a strong believer in collaboration, and believe this to be a part of many design projects. As an Industrial Design master I partook in this course to gain knowledge on a different perspective on design (HTI (M) versus Industrial design (M)), but also to learn how to collaborate in a new multidisciplinairy group.",
+    "skill": "Python Developer",
+    "skills": ["COCD box","Reflecting", "Benchmarking", "Thematic analysis", "Affinity diagram", "Service Design"],
+    "project_video_link": "https://www.youtube.com/embed/HPCDFnKxc28",
+    "longer_project_desc": "Teach me your CuisineCooking is a service design project that integrates daily events into a way to connect students moving to a new environment. Cooking is something that almost everyone has to do, especially after moving to a new environment to study. The cuisine idea utilized this, by transforming it into a social event.  By providing a place on campus where people who would like to cook together can meet. This concept allows students to meet new people, acquire new cooking skills, and possibly help with avoiding food waste. </br> Initial user testing with revealed a very positive response, with the main findings including: (I) Creating first contact could be easier based on common ground, (II) Focus on helping to create long-lasting relationships, and (III) Make the platform more user-friendly. However, overall CuisineCooking proved to be an effective way to reduce loneliness, integrated in a daily routine.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217431&authkey=AGh6DWeBZ2bLB1E&em=2",
+    "Collaborators": "In collaboration with: M. van der Burgt, K. Franken, M. Hage, & Ting-Yu Nien",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+     "https://am3pap006files.storage.live.com/y4mNzLfrVq910S-bVPXJnonrz4UTTPAhngAglV3i_deBVAHPvaaR_IrKhxNRCbu8IW12mRASmANNdLZpKy7A7Xzt5ISSS4dv1Iu8stkNSbUCyZBEmgPh5eXc7JBT1VTKv6_eECgWqeA1mDUUe5EYDl6tgql5vGzJwimSSJCB4w3qnK33fKxVhSccqWyo4KPYJ51?width=577&height=343&cropmode=none",
+     "https://am3pap006files.storage.live.com/y4mrT37qm-MChQ4iagNu527jPoZFRJ0PyNwbQn9MWoJzkEeHMsmfCuTwjfEwjSslJKg0FMTsDNu_J3txky8Sxhd5Y4B4motYR_C2VjLflqA76oxqdC8iYzrsH2d-WCWRiy-CmNDQQ6VjorhwGwIFji-1tEY85ck8iJzWXclys3g_wCgiE7Vn6mOcwV6FjRiS6JX?width=612&height=408&cropmode=none",
+     "https://am3pap006files.storage.live.com/y4mrloqm9klw5JjRpuI6U0LXWppBeekLXJKvfNwEyQB_7yCC4HA9F4oOlmK6NEEeDMiWbE4WDfcvV0b29eNByKqJ8eDBMhjYCMbcmDCgPZlLD4Ld4q8b5BaWi9Gbtu0ERNRbLmOF60MpjwXKPCn4FFP4b-t9K6TDAUKFXF-Z406YLVisztJVmhYvSoOHI5EzYht?width=612&height=408&cropmode=none"
     ]
   },
   {
     "id": 6,
-    "project_img": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1127977/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png",
-    "project_name": "Node js Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["Node Developer", "Express Js", "Socket.ia"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4mE4Y1Y0vh52Tfs3SY4ypSIphKhUW-v3-M4oj1pdCor4DAj7PzyXxmc8G-Ran-VNnq4QWzOtxhEo7ePvzo-qHl37RuToPjBv-qgzvQrWyT4gUBW23zsO1BPNBzSCLIhMz10cJAULAXFTut8hr6TXdJFGb2UAB6N94PXAqd3GhcykF4OYjHeHcFXwAkg371c0Ew?width=1415&height=908&cropmode=none",
+    "project_name": "M1.2: PaintFocus",
+    "project_description": "PaintFocus is a design research explorations, which describes my first individual research semester, but also my first ever individual design process. Doing everything alone in this project learned me to value teamwork even more. Teamwork is not only able to use the strengths of each team member but also enhances the existing skills through discussion and collaboration. However, not having a team to discuss and work with has taught me valuable skills in all stages of design research and reporting, including poster design, video, analysis, prototyping, writing, presenting, and more.",
+    "skill": "Node Developer",
+    "skills": ["3D-modeling","3D-printing", "Wizard-of-Oz", "Troubleshooting", "Expert interviews", "Reducing research bias"],
+    "project_video_link": "https://www.youtube.com/embed/qOdztYJwQaY",
+    "longer_project_desc": "We currently live in the information age, which means we are constantly exposed to information. Notifications function as an effective real-time communication format. However, current technology fails to properly monitor the importance of messages and is lacking in its customizability. Users are generally limited to either being distracted constantly or muting them all together. This paper presents an exploratory study, in which participants focused on solving several puzzles, while both important and non-important notifications came in. Using PaintFocus, participants were actively distracted by important messages, while non-important messages were displayed in a peripheral/ambient display. This paper argues for the importance of filtering notification design which considers how much attention a notification is allowed to grab from a user. To effectively do this, designers have to provide customization and carefully consider how individuals have unique properties when it comes to focusing on a task. This study provides preliminary results that support the need for continued development and research into importance filtered notification displays.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217467&authkey=AMPJSys-iIsa7Pw&em=2",
+    "Collaborators": "Individual project",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+      "https://am3pap006files.storage.live.com/y4mI0Ti7lo8djFywkm8Id1OdG7gJ4x-JgsFiqujp_MaiZOt-M7j2Gt2oxsAxiZ5CPyCZ7m88ABjyoeZCqMHIumjWpMzRN3AbjssD8ljBgGVIx6LSkX9-oEsjqMKiL6-i5QTBIle2lZd_K1T9Tcct8AWo93qhogGSNPFg6tMOfuokB-noD3lnY_V5zDJQlNlaMy_?width=640&height=640&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mqq3uhmtD2YPg1-0cSLqil8m0SCyRfwjqSAD-7MYzk7_YZeoOc_m52cRqjmPgpw9GnzfAnkvoju0b5o5TPPRSYqQc7xHtlKAylzHupRhTmeXpUlB_ZBlDzLmCwmSGSqGvlmEYDzXWVWfFRozhjc-FU5vZLGzY5MaZ2GlG_P0-wYmk6JJrkTnBpLUFv41LJ9c-?width=1613&height=908&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mnRqrUhcSnq4vvwTZ0s93_6eY8fpuC08U9EMBYL7CKcRJBBMcwJPw-j4lYTLCmm81LaaneDCJB3eFd84UR_rx3-IZ9TUIuQSVewui-TJ64iXUS33h87MAiE_Qofvq4nEm_aA9zKfIiEZdy-CFdemgvjhrm76DRwiWV5Iq6AEv6pQf9zRy1W-s7q5RceH59KDo?width=1606&height=972&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mWh-qC-KLw-MQNLr0kixAQZRsJBr9pt2itwcrrra1rxKqCBUkjmU8rl7Ml3FC-s19ByPJhFnGfgA7QrvW2QKna4tKQ6qplhCUlQTw4GPwjBUUD4rpJokM2B_uyq_wZi6OYA4p7NVZcBdpF90Ze0e-IBeHlheOszkMgO-6mpUC-bIzhY6TvVWTg30CurEjZN-b?width=6975&height=2743&cropmode=none"
     ]
   },
   {
     "id": 7,
-    "project_img": "https://dev.java/assets/images/java-logo-vert-blk.png",
-    "project_name": ["Java Projects", "Mobile Applications"],
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["Java Developer"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4mV5bCr_3wUSdVevQ5M1bewY7Wq8XuRu3-V7mZFMBG2KTXBW9e6PPwGkjow3Jx2dc1sABA33O02lfk0ABspGBaJdexcNZynFaZTFs50_8fuhAWQXHM973gi2GCsfMr2WR_SVTpTcql-cQx45y6KpcwKLi8UwSue9U0W7ZhKAk-T1YCt-2eRTt8iINLxrISCLQr?width=3520&height=1980&cropmode=none",
+    "project_name": "Celeste project Phase 1",
+    "project_description": "The celeste project is a European-commissioned project that aims to improve road safety by creating a system that facilitates the ability to install dynamic speed limits. What this means is that based on a road environment, speeds can be increased or lowered to ensure optimal safety, pollution, time, and satisfaction for all road users.",
+    "skills": ["Interface design", "Multidisciplinairy collaboration", "Developing cutting-edge technology"],
+    "project_video_link": "https://www.youtube.com/embed/cDEZnARjpAo",
+    "longer_project_desc": "During the set-up phase of the celeste project, it was important to learn about the necessary user interfaces to communicate dynamic speeds to drivers. Because of this, a delegation of the Tu/e was hired, in which I had a supportive role. My contribution to the project was to focus creativity within the boundaries of feasibility, provide status updates in regard to the display design, collaborate between partners, and learn more about user acceptability. Furthermore, it was important to identify road situations where the Celeste system would be most beneficial. </br> Collaborating in an international partnership provided me with real-world experience in the role designers and design researchers play in break-through technological projects.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217436&authkey=AAtgxhYEESUtRJA&em=2",
+    "Collaborators": "Project funded by EIT smart mobility, in collaboration with over 15 partners.",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+      "https://am3pap006files.storage.live.com/y4mVJrG24LQjk-hhL2l5s4y1ataNoiC3hiAJvdJBTVHr--kqLZLk_R4RGPa6hWwgLzweu9VjdoDTr-ODDRPr16eBKbrhWGzUAX5AIUytgmj9oO02J0mux2bIa20u7zT8M49oqAA0PNOFm_6qxRXJZpE8ik4iegmPVvVN9BUkT9tu1RLdFNI-ML_HeFHpZ4_WOSj?width=6001&height=2917&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4m-VKHY9eZ0DmPenRhrbDkvgvVKJkaVjBz-9mekZ4QKs_EgbmNiM5DQJeGrg5-XZblu2WP6ukchvKYFeW8bz4CByDc6QI6HDhZFFvq0z4Y16lE4l9eM2Jn6j1960YKK1eimPZh_EpMAhQ8qnNj7AX6YME8pmgYxUQPaqaZFg9UTsohkkKy9N9ghGJe_F1DInGa?width=7844&height=2439&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mfxo2ny1ilRriIJS7H0UYhJRygN7vOl5G8Aa8myj3Qp7tlEQNxptKr755ES_wPLYRWWI0LftKENQu9gHFTnJ44Fq1d59PAjL7MH8FRaGm1iZW3u9stE9wrN7We6vvUmHfftjget7juhlhjiv-H860klSpXO3knsLvJq9r0dO_LyHjjpVo1pLTecBhsheVurPx?width=6001&height=2918&cropmode=none",
+      "https://am3pap006files.storage.live.com/y4mAuaXOclXOakdCl-QBTWU2HmoRuAWh2HHVBhsV5MzzQR3W3oWEAUdUUdBTU7R33UBTHha6bRr6VCc6t0jxp4MP5jQpez8GVbXyj8OD4dkuhpTLspKcHg6ZTq_AXe1e72DUO6s3GsAAesJjR6RNljr7h1i4uvcZ9JsID5azo04i3-7irWmE_jaAkNDFBlDbm2d?width=1000&height=572&cropmode=none"
     ]
   },
   {
     "id": 8,
-    "project_img": "https://www.php.net/images/meta-image.png",
-    "project_name": "PHP Projects",
-    "project_description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": ["PHP Developer", "Laraval", "Wordpress"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4mQ266HXKrCNRPYx_VmfTlcQcjERaiRyc0qWZeOpaIvF9HjJHZN5owVBDrKdJrS4LPew2Ug-6UDmsgsyscQ97-uUtX4dh39vdmSXURZvjqYm9IR8uhpLVjpEg1dT6NT0LhKgUx4hdaWuIMID_v5-k6NlUtp1iuIRAYokdisKeYycuU59LXy0MeUvJLSq_Nnl6K?width=512&height=272&cropmode=none",
+    "project_name": "React website design",
+    "project_description": "This website is created using React. React is a JavaScript library for building user interfaces that allows developers to describe how a UI should look and update dynamically. This was my first time using and exploring React programming.",
+    "skill": "",
+    "skills": ["JavaScript","CSS","HTML"],
+    "project_video_link": "",
+    "longer_project_desc": "React is a JavaScript library for building user interfaces that allows developers to create reusable UI components. It was developed by Facebook and has since become a widely popular tool for front-end web development. React operates on the concept of components, which are small, independent, and reusable units of a user interface. Components in React can be written in JavaScript and often utilize .js files. </br> React components can also include styles, which are typically written in CSS. However, developers can use a preprocessor such as Sass to write their styles. Sass extends the functionality of CSS with features such as variables, mixins, and functions. In React, styles written in Sass can be included in the components using .scss files. This enables developers to write more maintainable and modular styles for their React components. </br> By combining the power of JavaScript and Sass, React provides developers with a highly effective toolset for building dynamic and scalable user interfaces. React's components and .js/.scss files make it easy to manage and reuse code, leading to faster and more efficient development.",
+    "project_report_pdf_link": "",
+    "Collaborators": "Individual project + Programming forums",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+  "https://am3pap006files.storage.live.com/y4mpvmLunFxo-q-QI3M4b7TeSlSrqVul01V8LY25Lb7YepIuIbSJWMxaBwe5xw2eIDfUear1RyvAX0VPG4U9n4MbQq_CwHoZSk0p-eVI4X8ud-GHowGluaVsE5zZbtjNBqSKYBU4PGsE5LHw9eT8jkc1w-9lq7FaUnlLFgm56DJpLlQ0r7GqLGs03-u9jmtj9PL?width=512&height=512&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mXjahQuLZHh5y6IgJOxuA0y23dB4Bg8TL2v3tZifUHRiq5N4be_tICemW1jmCyJVMnpy1STU5wKqv2Rn8vTEFVfpT6exbhXuSPA60OG4_KkCRVV65Gm9xXJzK_yufoB3VMj1K8HJy_hCYEdW7O7m-2kVN4vK3-rK2y9E2FVlZ4RuFs3EVN27djptnYJzT9YpT?width=512&height=512&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mWDKmvK5ULkd1uKwH_Q1gvoS9i7HoHpYHl80WaOgMTSw9Tg2W321dN9A0e9Wazowx9dm2Ic2jvLhU9gV06467Jjse04I1hlRs3AETDC-lZWwd7lzSzJqqh0Hpap5QD9cp7S9MFuTlceXS8d8xU89sJfGw9XVP5i7ZI22_Du5UViHZbciMz1_M3G7d1eI6bN5Q?width=512&height=512&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4m8H45C0iDmxFdje4POYmcmvrtvLM5yUyJR-YUr-zSYOotu7ygZTaXj0Snn9qlwFDMR_UU1nVotMVL9P4Klnp54s7VyEGSMTKNywtYVAxsMmtV5KgwVIC5gRqKD6sMiWi1ox2yzf5yyNOTjfKkiL0as4P5WiAdpbp7bYo2_VRPJa63V93VN5qPh5vvRoYYLYGy?width=512&height=512&cropmode=none"
     ]
   },
   {
     "id": 9,
-    "project_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png",
-    "project_name": ".Net Projects",
-    "project_description": "It is a long established </br> fact that a reader will be distracted by <h2>readable</h2> the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
-    "skills": [".Net Developer"],
-    "project_video_link": "https://www.youtube.com/embed/zAlX1V3lK5s",
-    "longer_project_desc": "survived not only </br> five centuries </br>, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing including versions of Lorem Ipsum",
-    "project_report_pdf_link": "https://www.africau.edu/images/default/sample.pdf",
-    "Collaborators": "Possible Collaboraters",
+    "project_img": "https://am3pap006files.storage.live.com/y4mBIpdwI1_LDCDbWRe_ScXylHFFaF1oxE0mygBm8cU9ElCJIYrqgEjwO7FoMPkERnA-nA0Ku3N4LzrXVjqUA4PsMvceL5PLwTmbXZPgqDJZMLQwQsBiN5lMg0a7Mu97h9UfsQR67SyvIxDh4ySA2NsqJ2iTmr0ckaP8VbhUqoJremTlolBMrq2LvCwbsWln6mW?width=4982&height=3841&cropmode=none",
+    "project_name": "Pubishing CHI: CoasterChat",
+    "project_description": "Coasterchat was my first opportunity to publish. At the end of the first master semester, we were recommended to explore the opportunity to publish our work. The value provided by the research and the design could benefit future explorations in the domain of dementia research. During this period we learned skills in structure, way of writing, framing your research in the bigger picture of existing research, and more.",
+    "skill": "",
+    "skills": ["Scientific writing","Publishing","Exploring research domain", "Literature review", "Attending conference"],
+    "project_video_link": "https://www.youtube.com/embed/eWwZuUv-QAQ",
+    "longer_project_desc": "People with dementia living at home experience difficulties in participating in social interactions, while staying in contact with family adds quality to their lived experience. Initiating communication can be challenging for family, since there is a natural disparity between their life patterns and those of people with dementia. In this paper, we present CoasterChat, an exploration in design that embeds asynchronous digital communication in a daily coffee routine to support social sharing between people with early stage dementia and their family. In this preliminary study, the aim is to explore suitable interaction design that provides an opportunity for technology to be embedded in existing individual routines. Initial results show the importance of personalization in digital guidance. Benefit for family who engage in the interaction lies in the flexibility and accessibility of asynchronous communication. Finally, we discuss that these routines enhance social relationships which demonstrates the opportunities of creating a meaningful interaction between people with dementia and family members.",
+    "project_report_pdf_link": "https://dl.acm.org/doi/10.1145/3411763.3451635",
+    "Collaborators": "First four authors had equal role, final two were supervisors",
     "project_gallery": [
-      "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH8clveP62729eL5ixEbPbWzxREr3pu9IjyddQp6LFEVQFzPBNAkyDJupmHIyr8Ybk70I&usqp=CAU",
-      "https://www.simplilearn.com/ice9/free_resources_article_thumb/8-Reasons-Project-Management-is-a-Top-Career-Choice.jpg"
+  "https://am3pap006files.storage.live.com/y4mU-PhougviYAmfPeHASlUdSYTmjWZFW8AZuMlguOxnX6ZnD_s-8q6XweXgd6NK64C87K4P7e509Z8_Pm6ahxXiQ5EwLBD6CHU29hsFSKyrys7E9ZfJSzRP-m1-rca1x4VaFlPPdxgSjony1JPOqYm1PdTa5tQJrZli5owlZfYc1zCXiflAmI5iuWtaOMwO-VA?width=1060&height=548&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4m-q65ZK3KOGQQEz1sT6csFHRazlp9NLFzYcR_uvHDRh5f-cO4uGtCy39XKXlUfhbCb7sPidMHqgxCbKzyBRiwIav64zskWopLPFgrdhfuUHYaZ_QqZLE-ThokZHAZXEROvgR82Cj1KeX5QUsOGe23pwiXp53-gskJ8oIUwuA6IjgLsA5YnBO2JdHE5bBlbVv4?width=1028&height=824&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mQBvG3ue0cA4kDSQoMrxfZbpUaevQGfBkuZbh1VrlSA866pepwmC-143KvXT5q2RR7EJ_aTCYbXr8w0TMsOqBuB5juu_tzA4ju5VLXMn2S3NfNVGdmVK8RDSDOkc4zzefel1fnX2lBEJOzEbtczYDDRM-dDK6x4GLD5Mm5jPrED1POHCjG9iO4npSOlyFE5Ut?width=1063&height=614&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mPS4YZ0jjbdP2VfNxopsczHaXBbJvbgyKFSz-zPl6-H6aGNi4-yOgy4t0DPc4h1z9UH8BelyoniS9oa8mM55ZMYYNdbcv1h1LFQ1Wkl18dTkXvs-sFRtoKZBaTY6Kl7bEO_OIleSMLXtwS4L1w7y3CnBA0XikJjkqL41Zc4ydlrtcEGT3YBbopm_rnIdyVS6X?width=503&height=227&cropmode=none"
     ]
+  },
+  {
+    "id": 11,
+    "project_img": "https://am3pap006files.storage.live.com/y4mU4JVJox3iBgM57_CjGHoUeTclxcuZZ1y8u0bejBIcqdwEKr9JeNTRStBf_vdhBmDfRzINiWUK6ZIbpUKKB9YWmSsS8EIMKXLX5YXU9g4IrJNwKxNfz9slSoPiRuAKWnyOoOYeVzEWOoaNMYY06DmYTkjDufzo-Y9XIQqAskfxuIfTs_NQycaxjAXmJsfoZzy?width=2495&height=1376&cropmode=none",
+    "project_name": "M1.1: CoasterChat",
+    "project_description": "The M1.1 CoasterChat project was my first master design exploration. In order to further develop my research skills I chose to explore research in a sensitive domain, dementia. Throughout this semester I received opportunities to learn important design skills in the form of brainstorming, prototyping, design processes, and more. I furthermore had the opportunity to perform research that had actual societal value, which gave the opportunity to publish (see publishing project). ",
+    "skill": "",
+    "skills": ["Collaborating","Creative Brainstorming","Sensitive Research", "Understanding Dementia", "Material Choice"],
+    "project_video_link": "https://www.youtube.com/embed/76UVWuk5SFY",
+    "longer_project_desc": "People with dementia who are living at home experience difficulties in participating in social interactions, while staying in contact with family members does add quality to their lived experience. Initiating communication can be challenging for family members since there is a natural disparity between the life patterns of people with dementia and family members. In this design report, we present CoasterChat, a tool that embeds digital communication in a daily coffee routine to support social relations between people with early-stage dementia and their family members. CoasterChat is a communication system that aims to asynchronously have both people with dementia and their family members engaged in a sharing moment during their coffee break. Apparent from this preliminary exploration is that technology operable without external support requires personalisation of digital guidance for the person with dementia. This provides an opportunity for technology to be embedded in existing asynchronous routines strengthening structure in the lives of people with dementia. Meanwhile, by integrating multimodal guidance into CoasterChat, we describe how people with dementia are guided seamlessly to use the artifact themselves. The benefit for the family members who engage in the interaction resides in the flexibility and accessibility of sending a message without immediate interaction. Our results reveal opportunities and consideration in design aimed at engaging people with dementia and family members in digital communication embedded in a coffee break routine.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217506&authkey=ABME0zCpqZpJlAA&em=2",
+    "Collaborators": "Collaboration with: G. Chen, S. Diks,& T. Huang ",
+    "project_gallery": [
+  "https://am3pap006files.storage.live.com/y4mRGlVmSx5K-Zc-ovj0vQ4lyQY3A9-uWtWMo0Iwtmie0UEsuLQHcBm0wlD_UZFH3N7fxbFz9mC0A_OZZRgLrj20osiA_BXPvyVaGH1FfjmgrwfX0Z0rJLZth1vA9Hf7iEyUdW12zDzyxVM_UGUhjbjtGuZw0xf_2GxR2EeZXhiKgndHL3Esu2M-3pA6c8gKPnX?width=1315&height=849&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mHE4ORvl2wlDypx4uIzyvP3sHH8Dj_JT6thLuFSQn7fZ5vsIK3cPTRjfkuFYR4Vx_lhrpVyypJBnKmvEHgGUH3NZYLyokyfyso0ggefL_2dsYE0uZe7RGHvtTXJBr-ACDA7vhet3dcqyeFM6OBhiSkJVxO0TVarjxReQ3CHPJ2TJ0Ivl0niZskX3yWt2O9QLW?width=978&height=706&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mkVXBalzgt4I1v1SsTsH8HyPrOSIFiA2ero48c3BkY1dXPnmzZII5yS4Rlj_8U2t15W7hF99hDife6Afe2xHYcLmXWHLLtffu6N0WZSBaL-TuEy0YnKvKTIPpvbDk5SjVFRj5pOfyXnCA6YvMDfCjRjY4qdc6OKgonjxv5S9doeg-yvj_fq35R-Au18RP9yZT?width=1024&height=723&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4m2USqqZYo3KSmxtSvlie5VH4uJ9GiZCkKzoFF6wzmoSD2PL41OPi_qQdRxpWF9FcuTbq_1A_gM49fWUNQtw9hq9UOJUGAtwbUJuG0kUJSFfGJkg4hU3l-REXz5JPICL_bH_UJcX-ZKZQl8DoqjtGmuHblK9q_r9o6fkYaJDjlC4bp2pTowwWgiaAQPu-G3DJ5?width=1357&height=806&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mNzLfrVq910S-bVPXJnonrz4UTTPAhngAglV3i_deBVAHPvaaR_IrKhxNRCbu8IW12mRASmANNdLZpKy7A7Xzt5ISSS4dv1Iu8stkNSbUCyZBEmgPh5eXc7JBT1VTKv6_eECgWqeA1mDUUe5EYDl6tgql5vGzJwimSSJCB4w3qnK33fKxVhSccqWyo4KPYJ51?width=577&height=343&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mbbqvsed4w-KsldNZLp8HhUJChTLzjUGR66kFiKZtScpzg-NZQELDoCAHDebcVdMEBclDYVqrfh7bGngpmP3FM_WCzsLEdu6P4CGJyZ0y8r8PLtFY01SzGOxvqFd14-R8JeBBv7LRg8t1QdrPBD6l-HYGUdp1uIXBZpIxuKGsHqMCM3bcaxu6KNGJPl-kY2y5?width=671&height=1033&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mQb2fZVwyRSaRAnG02qcZiDJ9M9gDNXw6u137z6YUEY_6CWQ6PweQpDQORyQJl3m3q_SQ3gQak0NR-TvZL76ywMWHxTilyKGP0SMjUgBcW9igABBUJJFpakJaQft4Huno3OJ1OvhSYexIl3zQxZPvoaTn5uRCbbXc9ufCJTbqrSBM4KD2VKXAE3lE_yQYvbX7?width=900&height=1072&cropmode=none"
+
+    ]
+  },
+  {
+    "id": 12,
+    "project_img": "https://am3pap006files.storage.live.com/y4mpENOXsv5x-1rjEJGPf7oPTGGjWN7_XaukA7GP99WJOLZiIblR9IloZqY8YtVWGWO1PO4aJfTSliC72TlYaidEJJhnQj3KTZEBxkKe4oO2vbM2Uoic4psxqCYfwubw_1C20LLnY6eG_USmy0grWBn9Z5qojd1ZmAjxxEkmLSvwxwlWgQfIMVgSlbS0_kSbBOj?width=2152&height=1426&cropmode=none",
+    "project_name": "Pre-master: Splash Active",
+    "project_description": "Splash active was my first industrial design project. Being placed in a group of pre-masters meant that our collaboration was founded on individuals and different backgrounds. Learning how to use these within a design process to generate a positive product was difficult, but also allowed us to gain valuable skills when it comes to interdisciplinary collaborations. </br> This semester allowed me to understand what a design process is, what the necessary skills are for a designer (technology, data, aesthetics, research, and business), and how I wanted to approach my master.",
+    "skill": "",
+    "skills": ["Collaborating","Design processes","Prototyping", "Arduino", "Expertise Area contributions"],
+    "project_video_link": "https://www.youtube.com/embed/51j4hDgeTt4",
+    "longer_project_desc": "Students spent most of their days sedentary in class, meetings or behind a desk. During breaks, there is little incentive to be active despite known healthy outcomes. While many students use activity trackers, the numerical data shown (e.g. steps number) does not provide the stimulation needed to trigger physical activity. By designing a richer and more playful way to experience activity data, we can encourage students to become and remain active. Splash Active is a social service aimed at motivating students to go for a stroll during breaks. Splash uses the sonification of the students’ activity data as a stimulus. The user takes a walk to a Splash waterpoint where he scans the RFID sticker on his bottle. Here he will experience a unique melody based on the user’s activity data and the other Splash users present. By combining intrinsic and social motivation, our concept explores new opportunities within the design space of vitality.",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217510&authkey=AGDPuCL22rXGbqk&em=2",
+    "Collaborators": "Collaboration with: J. Spork & S. Zandbergen",
+    "project_gallery": [
+  "https://am3pap006files.storage.live.com/y4mvFsiYMZpKrKfw3J-SWav6XZOoqYV1Whz_zuPYa9aIpcug-jC4c8hzjydIbIGDpW-vwpqa-3V3pAr6ocVbW0JxWnqU4gIbZpxAAownZV_O83_1rwSNX2_2kHOrcQPqUFyla8knsvdO8Oc70QA1chVLGrchhVzzTOS6csTQOJQ5R-pE_TqsAHQ3bDPHUhyf3oa?width=2346&height=1562&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4m-GFMDSNToZixlu728Z6FSqdLMrLZsi03N3f8YII9BbTTIXoiQG3D8eiMC-O0KrL6JmOPq1dKmqj7fZ-lNx5YXSWa-04rBLrvUI4lyLmFCVTwFWDRflHlYK_rpMoNhyb4t-YAYf8qEsIxa52rEqaFJHkmLXZxODv5LCGFR_1Cd--k3MJv6-qBb5mlGyfLr2p3?width=2404&height=1038&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4m-4Y5qCZN4ie3KEz-spYfGmQgvw2OqAFIfYx-v4zHNszqqot-jPqsNb6nCdmSAwSXcO3d7KQSYUKsT8hHa6NGkXFeM3xV48RhNMfPeyIEHmJuFREOyG3j6yXJYAFM42wRwer-z7KSGXMwj08umBBN49H9flAO9zMNH5bx7jyZHe7sfKWVhDIYajiwYkD22ZI1?width=1982&height=1368&cropmode=none",
+  "https://am3pap006files.storage.live.com/y4mcGfznjMosHDX0xYVfoxJBZuwMyEYVWu7dC4KUQQ99vH_kEpe5UqsUBu7_P7csytdOFr19rZU5tEreWzNooZLKbuqcEZP31BUgDd0Zf_9yRqZ7UPl88f68MIxG79c5KHF_iSSiGaBjgquMDeMiG-5BPDWD_hA579YXqEJLESIosSy4f1fICVXaoqBzXL4Dlmx?width=2314&height=1542&cropmode=none"
+    ]
+  },
+  {
+    "id": 13,
+    "project_img": "https://am3pap006files.storage.live.com/y4miqo4ghRbr3bqd_INR_2qT8UuSI1K717SRgLuXlIZqdXUflc1if4n7eIyhpXPIQSHj4UizAZDrGMybvU_4Bxx95__CbfJglmPD27NpdiBtmtpVw7zqNfYA6DM1APHiH8pcgMPV1eWslc4rxDXhR9DggjtKSjgOG6ctX5HoIHodZ2rwriFKkHJ9TuQqu8oqjNf?width=1600&height=777&cropmode=none",
+    "project_name": "Creative Electronics",
+    "project_description": "During this course I have developed myself strongly within the T&R proficiency, where I learned how to manipulate components based on calculations, component specifications and microcontroller capabilities.",
+    "skill": "",
+    "skills": ["Calculating Electronics","Electronic Component Use","Using Lab Equipment"],
+    "project_video_link": "",
+    "longer_project_desc": "During the first lab sessions I learned how to use lab equipment in combination with breadboards, where the main focus was on voltage and ampere manipulations through different components. This has helped me to understand how circuits can be potentially harmful to components with limited tolerances. Furthermore it has taught me how circuits can be manipulated in order to adhere to these tolerances.</br> During the final mini project I have learned how to convert a creative idea into a clear circuit proposal. I learned how sensors are classified based on their range, operating Voltage/Ampere and error margins. I learned how data conversion computing can be done through the use of code and microcontrollers. Finally I learned how to convert this information to an actuator that is able to display the information gathered by the sensor. Hereby creating a functional prototype. ",
+    "project_report_pdf_link": "https://onedrive.live.com/embed?cid=7FD4674475C69C57&resid=7FD4674475C69C57%217516&authkey=AJZqVgIr1IN3yso&em=2",
+    "Collaborators": "Collaboration with: H. Loschacoff",
+    "project_gallery": [
+    "https://am3pap006files.storage.live.com/y4mij53dAkxOxhWfmbx9W7X5HpqUG-KQ_Il8UEfT6RERjhAFvdpGzvPWvIB3LoA0KdPgWcatQSbbJzinA78xH95jeD-fT8nD4ENoizVJdQIG1zzymlOFNyz5N658lZYtinGMQ_iDNduB9M1NXNyBSu2l12nsWc4qHhYhCBfWoAP9uLkRT_xrQvC2nI5e3jE4j2r?width=1600&height=777&cropmode=none",
+    "https://am3pap006files.storage.live.com/y4mIp_6bwnkYsngaZM7VF_wr5XaMjxxZG8OMU8rY7g9AATsUzzf88UZM1YfFgkKzTyR0nrZELCb8nZwKhuuPpUWspGcJK6N_wx3tQ7dyo0nm-Qfta3EXMCLKMtsK2qvEFf_jBpZckElK627J50ta1NB1aVJT867YQ5umg06pw_nsflJO-X3VsoSu85JqNwTC-81?width=1600&height=777&cropmode=none",
+    "https://am3pap006files.storage.live.com/y4mPKcCnv5vR09ybIjD8sSYq6kXutSesiLkIA2YV9w7AVwjWeKQVG2J9dh52d-deXTXxp6UxrHiHxxIXewa1p3LrnLt1qhRVBNxX8D6a__BmY-Cu_Kgv9xLFl2rfcy71ZRvHJAHYVfkKTATkQsuWY0ZgBO5AD8Swwsr48xFb1ZeRg2F4uEyCttu1514VXDMJHb3?width=418&height=255&cropmode=none",
+    "https://am3pap006files.storage.live.com/y4mSuCHT8ZwJvmOY-hddgE0gP6nmQ8CsnDksf3zgSa6SujRniD9kRinvLJWtURMQFnjV1A_Kp6mlaY3p1voMTaUwU9gjz26ewULjSy3OTvKQwcVPBh5oo-878Zd3xV7IbEqX9i8vtfDoih1iSVCe_MqQwj44yx8hrK7q9O7krAEB9Jsw_ShGm9LwyGn2fZv3fol?width=1244&height=605&cropmode=none"
+      ]
+  },
+  {
+    "id": 14,
+    "project_img": "https://am3pap006files.storage.live.com/y4mDI1QI0vYv1c9c56eMkrELclqJ-Y_15YgwR-XbCeYEvXl5HKXVxLp_hTsWY1Qx84wHhIXTLg78AmVzNSYO9_w6l6VaOcdklLh5ygM8GiaKTEgOiqY7DjiEyrS3dQuQkZfo5ZzAxKunKS5BbOz_qHdRCExPbnllhXK9gOUbgK2F8gO3m2QEWruf5MkyhOUEZ8F?width=5525&height=3464&cropmode=none",
+    "project_name": "Creative Electronics",
+    "project_description": "Due to the word limit of this portfolio, I did not include many interesting projects within courses and my previous education. This does not mean that these did not have very interesting learning points, knowledge to share, and more. After finishing my MSC. Program, I will add additional content to show my work and my development.",
+    "skill": "-",
+    "skills": [],
+    "project_video_link": "",
+    "longer_project_desc": "- ",
+    "project_report_pdf_link": "",
+    "Collaborators": "-",
+    "project_gallery": [
+    
+      ]
   }
 ]
