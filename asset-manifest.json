@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.d6f620d3.css",
-    "main.js": "/PortfolioWebsite/static/js/main.37742ae8.js",
-    "static/js/787.a2cb61a6.chunk.js": "/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo-s.png": "/PortfolioWebsite/static/media/logo-s.63465910ef35d4f0b0a8.png",
-    "static/media/helvetica-neu.ttf": "/PortfolioWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/PortfolioWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/PortfolioWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/PortfolioWebsite/index.html",
-    "main.d6f620d3.css.map": "/PortfolioWebsite/static/css/main.d6f620d3.css.map",
-    "main.37742ae8.js.map": "/PortfolioWebsite/static/js/main.37742ae8.js.map",
-    "787.a2cb61a6.chunk.js.map": "/PortfolioWebsite/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.c00f54e8.css",
+    "main.js": "/react-portfolio/static/js/main.d0df07c8.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo-s.png": "/react-portfolio/static/media/logo-s.63465910ef35d4f0b0a8.png",
+    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.c00f54e8.css.map": "/react-portfolio/static/css/main.c00f54e8.css.map",
+    "main.d0df07c8.js.map": "/react-portfolio/static/js/main.d0df07c8.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6f620d3.css",
-    "static/js/main.37742ae8.js"
+    "static/css/main.c00f54e8.css",
+    "static/js/main.d0df07c8.js"
   ]
 }
